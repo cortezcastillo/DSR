@@ -1,5 +1,6 @@
 @charset "UTF-8";
 /* CSS Document */
+html{scroll-behavior: smooth;}
 body {	margin: 0; }
 /*this is video background*/
 .video {
@@ -44,27 +45,63 @@ object-fit: cover;
 
 /*main stuff*/
 nav {
+    color: #456783;
     width: 100vw;
     height:60px;
     background-color: rgba(255, 255, 255, 0.8);
-    text-align: center;
+    text-align: right;
     line-height: 60px;
     position: absolute;
     top: 0;
     z-index: 10;
+    position: sticky;
  
 
 
 
 }
     nav a {
-        color:white;
+        color: #456783;
+
+    font-family: "Futura 100";
+    font-size: 20px; 
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+      
         text-decoration:none;
         margin: 20px;
     }
-main{
-    background-color: white;
-    width:90vw;
-    padding:5vw;
-    height:500px;
+.backgroundStudio 
+ {
+
+    float: left;
+    background-image: url(../images/studio.png);
+    background-size: cover;
+    width:100vw;
+   height: 965px;
+   background-repeat: no-repeat;
+   
+   
+
+ }
+
+
+.maintext
+{
+    color: #456783;
 }
+ 
+ .headerpage1 {
+
+     color: #456783;
+font-family: "Futura 100";
+font-size: 100px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-align: center;
+
+
+ }
+ 
