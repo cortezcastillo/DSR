@@ -105,3 +105,30 @@ text-align: center;
 
  }
  
+ .line1{
+    margin-left: 40px;
+ }
+
+ .studioParagraph
+ {
+    float: left;
+    width: 635px;
+height: 224px;
+color: #262626;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-top: 40px;
+margin-left: 123px;
+;
+ }
+ .studioPhoto
+ {
+    float: left;
+    width: 572px;
+height: 381px;
+flex-shrink: 0;
+margin-top: 40px;
+ }
