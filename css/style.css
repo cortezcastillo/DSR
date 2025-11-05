@@ -120,7 +120,7 @@ font-size: 15px;
 font-style: normal;
 font-weight: 600;
 line-height: normal;
-margin-top: 40px;
+margin-top: 100px;
 margin-left: 123px;
 ;
  }
@@ -130,5 +130,6 @@ margin-left: 123px;
     width: 572px;
 height: 381px;
 flex-shrink: 0;
-margin-top: 40px;
+margin-top: 80px;
+margin-left: 60px;
  }
