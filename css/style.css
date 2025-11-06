@@ -95,7 +95,10 @@ nav {
 }
  
  .headerpage1 {
-margin: 0px;
+margin: 0;
+padding-top: 25px;
+margin-left: 20px;
+flex-shrink: 0;
      color: #456783;
 font-family: "Futura 100";
 font-size: 100px;
@@ -108,8 +111,10 @@ text-align: center;
  }
  
  .line1{
-    margin-left: 40px;
-    margin-top:  20px; ;
+    background: #262626;
+    width: 1352px;
+height: 2px;
+margin-left: 40px;
  }
 
  .studioParagraph
@@ -124,7 +129,7 @@ font-style: normal;
 font-weight: 600;
 line-height: normal;
 margin-top: 100px;
-margin-left: 123px;
+margin-left: 80px;
 ;
  }
  .studioPhoto
@@ -147,7 +152,7 @@ margin-left: 60px;
     align-items: center;
     background-color:  #6592B9;
     margin-top: 60px;
-    margin-left: 250px;
+    margin-left: 220px;
  }
 
  .hundred
@@ -161,7 +166,7 @@ font-style: normal;
 font-weight: 500;
 line-height: normal;
  float: left;
- margin-top: 30px
+ margin-top: 50px;
  }
  .fifty{
     color: #456783;
@@ -171,6 +176,114 @@ font-size: 113.369px;
 font-style: normal;
 font-weight: 500;
 line-height: normal;
- margin-top: 30px;
- margin-left: 642px
+ margin-top: 50px;
+ margin-left: 540px
+ }
+ .fivefour
+ {
+    color: #456783;
+flex-shrink: 0;
+font-family: "Futura 100";
+font-size: 113.369px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+ height: 10px;
+  margin-left: 1060px;
+  margin-top: -290px
+ 
+ }
+
+ .firstaward{
+color: #262626;
+flex-shrink: 0;
+text-align: center;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: 650px;
+margin-left: -1020px;
+ }
+ .secondaward
+ {
+    color: #262626;
+flex-shrink: 0;
+text-align: center;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: -40px;
+margin-left: 30px;
+
+ }
+
+ .thirdaward{
+color: #262626;
+flex-shrink: 0;
+text-align: center;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-left: 1045px;
+margin-top:-35px
+ }
+
+ .backgroundforprojectpage
+ {
+    width: 1440px;
+    height: 978px;
+    background-color: #262626;
+    margin-top: -20px;
+
+ }
+.mainprojectHeader{
+margin: 0px;
+margin-left: 0px;
+     color: #456783;
+font-family: "Futura 100";
+font-size: 100px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-align: center;
+padding-top: 25px;
+ }
+
+ .projectwhiteline
+ {
+    width: 1347px;
+height: 2px;
+background: #FFF;
+margin-left: 40px;
+ }
+
+ .leftarrow
+ {
+   float: left;
+   margin-top: 350px;
+   margin-left: 20px;
+ }
+ 
+.projectphoto1
+ {
+    float: left;
+    margin:20px;
+    margin-top: 60px;
+  width: 231px;
+height: 572.911px;
+
+
+ 
+ }
+
+ .rightarrow
+ {
+     margin-top: 350px;
+     float: left;
  }
