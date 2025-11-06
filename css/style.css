@@ -55,12 +55,14 @@ nav {
     top: 0;
     z-index: 10;
     position: sticky;
+
  
 
 
 
 }
     nav a {
+
         color: #456783;
 
     font-family: "Futura 100";
@@ -75,7 +77,7 @@ nav {
 .backgroundStudio 
  {
 
-    float: left;
+   
     background-image: url(../images/studio.png);
     background-size: cover;
     width:100vw;
@@ -93,7 +95,7 @@ nav {
 }
  
  .headerpage1 {
-
+margin: 0px;
      color: #456783;
 font-family: "Futura 100";
 font-size: 100px;
@@ -107,6 +109,7 @@ text-align: center;
  
  .line1{
     margin-left: 40px;
+    margin-top:  20px; ;
  }
 
  .studioParagraph
@@ -132,4 +135,42 @@ height: 381px;
 flex-shrink: 0;
 margin-top: 80px;
 margin-left: 60px;
+ }
+
+ .blueblock
+ {
+    display: flex;
+   width: 133px;
+    height: 52px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color:  #6592B9;
+    margin-top: 60px;
+    margin-left: 250px;
+ }
+
+ .hundred
+ {
+   
+color: #456783;
+
+font-family: "Futura 100";
+font-size: 113.369px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+ float: left;
+ margin-top: 30px
+ }
+ .fifty{
+    color: #456783;
+flex-shrink: 0;
+font-family: "Futura 100";
+font-size: 113.369px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+ margin-top: 30px;
+ margin-left: 642px
  }
