@@ -44,7 +44,7 @@ object-fit: cover;
 
 
 /*main stuff*/
-nav {
+.mainnav {
     color: #456783;
     width: 100vw;
     height:60px;
@@ -236,7 +236,7 @@ margin-top:-35px
 
  .backgroundforprojectpage
  {
-    width: 1440px;
+    width: 1460px;
     height: 978px;
     background-color: #262626;
     margin-top: -20px;
@@ -263,27 +263,71 @@ background: #FFF;
 margin-left: 40px;
  }
 
- .leftarrow
- {
-   float: left;
-   margin-top: 350px;
-   margin-left: 20px;
- }
+
  
+ .carousel
+ {
+    
+    margin:3em auto;
+    overflow-x:auto;
+    margin : 3em auto;
+    display:flex;
+    gap: 1em;
+    scroll-behavior: smooth;
+    anchor-name: --carousel;
+    scroll-snap-type: x mandatory
+ }
+ .carousel::-webkit-scrollbar {
+    display: none;
+
+ }
+.carousel::scroll-button(right), .carousel::scroll-button(left) {
+    content: '>';
+    background-color: #456783;
+    border: none;
+    color: #FFF;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    padding-bottom:.1em;
+    cursor:pointer;
+
+    position-anchor: --carsousel;
+    position-area:right center;
+    translate: 2000% -900% ;
+    
+   
+
+
+    
+}
+
+
+.carousel::scroll-button(left)
+{content: '<';
+ position-area:left center;
+ translate: 50% -900%;
+
+}
+
+.carousel::scroll-button(right):disabled, .carousel::scroll-button(left):disabled{
+opacity: 0.5;
+cursor:auto
+}
+
 .projectphoto1
  {
-    float: left;
-    margin:20px;
-    margin-top: 60px;
-  width: 231px;
-height: 572.911px;
+    scroll-snap-align: start;
+    margin-top: -200px;
+    flex: 0 0 20em;
+
+        height: 60em;
+align-content: center;
+text-align: center;
 
 
  
  }
 
- .rightarrow
- {
-     margin-top: 350px;
-     float: left;
- }
+ 
+ 
