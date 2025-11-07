@@ -353,6 +353,7 @@ font-size: 100px;
 font-style: normal;
 font-weight: 500;
 line-height: normal;
+padding-top: 25px;
  }
 
 
@@ -361,8 +362,47 @@ line-height: normal;
     width: 1347px;
 height: 2px;
 background-color:  #262626;;
+margin-left: 40px;
+float: left;
  }
 .article1photo
 {
     margin-top: 20px;
+    margin-left: 40px;
+    float: left;
 }
+
+.article1textbox
+{
+  width: 291px;
+height: 258px;
+flex-shrink: 0;
+background-color: #6592B9;
+float: left;
+margin-left: 40px;
+margin-top: 20px;
+}
+.firstcompanyname
+{
+color: #000;
+margin: 0;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+
+}
+
+.firstarticletitle
+{
+    
+color: #000;
+margin-top: -10px;
+font-family: "Futura 100";
+font-size: 25px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
