@@ -565,3 +565,13 @@ font-style: normal;
 font-weight: 300;
 line-height: normal;
 }
+
+.article4title
+{
+    color: #000;
+font-family: "Futura 100";
+font-size: 25px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
