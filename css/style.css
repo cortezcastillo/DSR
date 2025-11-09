@@ -239,7 +239,7 @@ margin-top:-35px
     width: 1440px;
     height: 978px;
     background-color: #262626;
-    margin-top: -20px;
+
 
  }
 .mainprojectHeader{
@@ -336,7 +336,7 @@ text-align: center;
  
  .backgroundnews
  {
-margin-top: -20px;
+
 background-color: white;
 width: 1440px;
 height: 1617px;
@@ -427,30 +427,30 @@ font-weight: 500;
 line-height: normal;
 }
 
-.firstlearnmore
+
+.firstlearnmorelink
 {
     width: 133px;
 height: 45px;
 flex-shrink: 0;
 background-color: #6592B9;
 margin-top: 30px;
-padding-top: 7px;
 
 }
-.firstlearnmorelink
-{
-    color: #262626;
+.firstlearnmorelinka {
+
+   float: left;
+z-index: -12px;
+color: #262626;
 text-align: center;
+margin-left: 28px;
 font-family: "Futura 100";
 font-size: 15px;
 font-style: normal;
 font-weight: 500;
 line-height: normal;
-z-index: -20px;
-}
-.firstlearnmorelinka {
+margin-top: 10px;
 
-    color: #262626;
 }
 
 .article2photo
@@ -533,7 +533,7 @@ margin-left: -55px;
 z-index: -12px;
 color: #262626;
 text-align: center;
-
+margin-left: 28px;
 font-family: "Futura 100";
 font-size: 15px;
 font-style: normal;
@@ -557,6 +557,7 @@ width: 460px;
 height: 125px;
 padding-left:40px;
 float: left;
+margin-top: -35px;
 }
 .company4
 {
@@ -566,7 +567,7 @@ font-size: 15px;
 font-style: normal;
 font-weight: 300;
 line-height: normal;
-margin-top: 40px;
+margin-top: 50px;
 }
 
 .article4title
@@ -581,11 +582,136 @@ line-height: normal;
 }
 .article4date
 {
-    margin-top: -10px;
+    margin-top: -20px;
     color: #000;
+font-family: "Futura 100";
+font-size: 10px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.mostbox
+{float: left;
+z-index: -10px;
+width: 133px;
+height: 45px;
+background-color: #6592B9;
+margin-top: 55px;
+}
+
+.mostlink
+{
+  float: left;
+z-index: -12px;
+color: #262626;
+text-align: center;
+margin-left: 28px;
 font-family: "Futura 100";
 font-size: 15px;
 font-style: normal;
 font-weight: 500;
 line-height: normal;
+margin-top: 10px;  
+}
+.dsrarticle
+{
+    float: left;
+    width: 346px;
+height: 195px;
+
+margin-left: 965px;
+margin-top: -100px;
+}
+.archrecord{
+    color: #000;
+font-family: "Futura 100";
+font-size: 10px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+
+}
+.dsrtitle{
+    color: #000;
+font-family: "Futura 100";
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: -10px;
+}
+
+.dsrauthor
+{
+    color: #000;
+margin-top: -10px;
+font-family: "Futura 100";
+font-size: 10px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+
+.archdate
+{
+  color: #000;
+font-family: "Futura 100";
+font-size: 10px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.lastbox
+{
+    float: left;
+z-index: -10px;
+width: 133px;
+height: 45px;
+background-color: #6592B9;
+margin-top: 5px;
+}
+.lastlink
+{
+   float: left;
+z-index: -12px;
+color: #262626;
+text-align: center;
+margin-left: 28px;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: 10px;  
+}
+
+.contactbase
+{
+    width: 1440px;
+height: 1114px;
+flex-shrink: 0;
+background-color: #262626;
+padding-top: 1px;
+}
+.contacttitle
+{
+
+    color:#456783;
+font-family: "Futura 100";
+font-size: 100px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
+float: left;
+
+margin-left: 50px;
+
+}
+.contactphoto
+{ 
+    margin-top: -200px;
+    float: left;
+   margin-left: 700px;
 }
