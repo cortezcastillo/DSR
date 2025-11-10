@@ -703,15 +703,30 @@ font-size: 100px;
 font-style: normal;
 font-weight: 500;
 line-height: normal;
+margin: 0px;
+text-align: center;
 
-float: left;
 
-margin-left: 50px;
 
 }
 .contactphoto
 { 
-    margin-top: -200px;
+    margin-top: 00px;
     float: left;
    margin-left: 700px;
+}
+
+.ContactBold
+{
+    float: left;
+}
+
+.linecontact
+{
+
+background-color: #FFF;
+width: 1347px;
+height: 2px;
+margin-left: 40px;
+
 }
