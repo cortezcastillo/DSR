@@ -696,7 +696,7 @@ padding-top: 1px;
 }
 .contacttitle
 {
-
+padding-top: 25px;
     color:#456783;
 font-family: "Futura 100";
 font-size: 100px;
@@ -709,16 +709,18 @@ text-align: center;
 
 
 }
-.contactphoto
-{ 
-    margin-top: 00px;
-    float: left;
-   margin-left: 700px;
-}
+
 
 .ContactBold
 {
-    float: left;
+  
+    color: #FFF;
+
+font-family: "Futura 100";
+font-size: 25px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
 }
 
 .linecontact
@@ -728,5 +730,315 @@ background-color: #FFF;
 width: 1347px;
 height: 2px;
 margin-left: 40px;
+
+}
+
+.addy
+{
+    color: #FFF;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+
+}
+.contactnumber
+{
+    
+    color: #FFF;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+.contacttextbox
+{margin-left: 40px;
+margin-top: 30px;
+float: left;}
+
+
+.buisnesssection
+{
+float: left;
+margin-left: 40px;
+    margin-top: 30px;
+}
+.buisness
+{
+
+    color: #FFF;
+
+font-family: "Futura 100";
+font-size: 25px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+
+}
+.Buisnessinfo
+{
+   color: #FFF;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 300;
+line-height: normal; 
+}
+
+.contactphoto
+{ 
+   
+    float: left;
+    width: 566px;
+height: 780px;
+    flex-shrink: 0;
+ margin-left: 85px;
+ margin-top: 51px;
+}
+.press
+{
+    float: left;
+    width: 126px;
+    height: 85px;
+   margin-top: -640px;
+    margin-left:40px;
+
+}
+.pressbold
+{
+color: #FFF;
+
+font-family: "Futura 100";
+font-size: 25px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+float: left;
+}
+.pressinfo{
+   
+    color: #FFF;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+
+}
+.applications
+{
+float: left;
+  margin-top: -640px;
+    margin-left:180px;
+    width: 228px;
+height: 97px;
+
+}
+
+.applicationbold
+{
+    color: #FFF;
+
+font-family: "Futura 100";
+font-size: 25px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+
+.applicationsinfo{
+   color: #FFF;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 300;
+line-height: normal; 
+}
+.library{
+float: left;
+   margin-top: -151px;
+    margin-left:239px;
+    width: 296px;
+height: 108px;
+flex-shrink: 0;
+}
+
+.librarybold{
+     color: #FFF;
+
+font-family: "Futura 100";
+font-size: 25px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.libraryinfo{
+color: #FFF;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 300;
+line-height: normal; 
+}
+.reachout
+{
+    float:left;
+    margin-left:-380px;
+}
+.reachoutbold
+{
+    color: #FFF;
+
+font-family: "Futura 100";
+font-size: 25px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+
+.namebox
+{
+    float: left;
+    width: 300px;
+height: 45px;
+background-color: #6592B9;
+
+}
+
+.emails
+{
+    float: left;
+ width: 355px;
+height: 45px;
+background-color: #6592B9;
+margin-left: 21px;
+}
+.messagebox
+{
+    float: left;
+    width: 676px;
+height: 206px;
+flex-shrink: 0;
+background-color: #6592B9;
+margin-top: 30px;
+align-content: center;
+}
+
+.nametext
+{
+    color: #FFF;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 300;
+line-height: normal; 
+margin-top: 9px;
+margin-left: 20px;
+
+}
+.email
+{
+    color: #FFF;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 300;
+line-height: normal; 
+margin-top: 9px;
+margin-left: 20px;
+}
+.message{
+   color: #FFF;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 300;
+line-height: normal; 
+margin-top: -95px;
+margin-left: 20px;
+text-align: left;
+}
+.sendmessage
+{
+    float: left;
+
+width: 133px;
+height: 45px;
+background-color: #6592B9;
+margin-top: 48px;
+margin-left: 250px;
+color: #FFF;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 300;
+line-height: normal
+}
+.send
+{
+   margin-top: 9px;
+margin-left: 50px; 
+
+}
+
+.educationbackground
+{
+    width: 1447px;
+height: 1044px;
+background-color: #262626;
+}
+
+.educationheader
+{
+   padding-top: 25px;
+    color:#456783;
+font-family: "Futura 100";
+font-size: 100px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin: 0px;
+text-align: center; 
+}
+.meetusbackground{
+    width: 1440px;
+height: 4010px;
+background-color: #262626;
+
+
+}
+
+.meetusheader
+{
+    float: left;
+    color:#ffffff;
+font-family: "Futura 100";
+font-size: 100px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin: 0px;
+text-align: center; 
+background-image: url(../images/meetUSS.jpg);
+width: 1440px;
+height: 542px;
+flex-shrink: 0;
+padding-top: 300px;}
+
+.scrolldownmeetus
+{
+
+margin-top: 320px;
+color: #FFF;
+font-family: "Futura 100";
+font-size: 25px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
 
 }
