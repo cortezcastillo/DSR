@@ -1236,7 +1236,7 @@ font-weight: 150;
 line-height: normal;
 float: left;
 margin-top: 50px;
-margin-left: 50px;
+margin-left: 60px;
 width: 217px;
 height: 185px;
 }
@@ -1252,7 +1252,7 @@ font-weight: 150;
 line-height: normal;
 float: left;
 margin-top: 50px;
-margin-left: 50px;
+margin-left: 60px;
 width: 207px;
 height: 261px;
 flex-shrink: 0;
@@ -1268,7 +1268,7 @@ font-weight: 150;
 line-height: normal;
 float: left;
 margin-top: 50px;
-margin-left: 50px;
+margin-left: 60px;
 width: 207px;
 height: 261px;
 flex-shrink: 0;
@@ -1286,5 +1286,27 @@ font-weight: 150;
 line-height: normal;
 float: left;
 margin-top: 50px;
-margin-left: 50px;
+margin-left: 60px;
+}
+.teamphoto
+{
+    float: left;
+    margin-top: 170px;
+    margin-left: -170px;
+
+}
+.rightlongstaffbox
+{
+    width: 224px;
+height: 223px;
+ float: left;
+    color: #FFF;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 150;
+line-height: normal;
+float: left;
+margin-top: 150px;
+margin-left: 60px;
 }
