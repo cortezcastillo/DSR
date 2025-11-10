@@ -1312,3 +1312,89 @@ float: left;
 margin-top: 150px;
 margin-left: 60px;
 }
+.perryheader
+{
+    background-image: url(../images/perrybigger.jpg);
+    width: 1441px;
+height: 961px;
+
+  
+}
+
+
+
+.perryheaderMain
+{
+   
+    color: #FFF;
+margin: 0px;
+text-align: center;
+font-family: "Futura 100";
+font-size: 35px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.perryheadertext{
+    margin-top: 5px;
+    text-align: center;
+    color: #FFF;
+    font-family: "Futura 100";
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.perryscrolldown
+{
+    margin-top: 500px;
+    text-align: center;
+    color: #FFF;
+    font-family: "Futura 100";
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.backgroundperryproject
+{
+    background-color: #FFF;
+    width:1440px;
+    height: 3072;
+}
+.perryinfo
+{
+    color: #010101;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 604px;
+height: 615px;
+float: left;
+margin-left: 70px;
+}
+.perry2
+{
+    float: left;
+    margin-left: 90px;
+    width: 579px;
+height: 386px;
+}
+.projectperryinfo
+{
+   float: left;
+    margin-left: 90px; 
+}
+.projecinfobold
+{
+    color: #010101;
+
+font-family: "Futura 100";
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
