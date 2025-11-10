@@ -126,7 +126,7 @@ color: #262626;
 font-family: "Futura 100";
 font-size: 15px;
 font-style: normal;
-font-weight: 600;
+font-weight: 400;
 line-height: normal;
 margin-top: 100px;
 margin-left: 80px;
@@ -145,14 +145,16 @@ margin-left: 60px;
  .blueblock
  {
     display: flex;
-   width: 133px;
-    height: 52px;
+  width: 133px;
+height: 45px;
     text-align: center;
     justify-content: center;
     align-items: center;
     background-color:  #6592B9;
     margin-top: 60px;
     margin-left: 220px;
+    font-weight: 500;
+    
  }
 
  .hundred
@@ -719,7 +721,7 @@ text-align: center;
 font-family: "Futura 100";
 font-size: 25px;
 font-style: normal;
-font-weight: 700;
+font-weight: 500;
 line-height: normal;
 }
 
@@ -739,7 +741,7 @@ margin-left: 40px;
 font-family: "Futura 100";
 font-size: 15px;
 font-style: normal;
-font-weight: 300;
+font-weight: 100;
 line-height: normal;
 
 }
@@ -750,7 +752,7 @@ line-height: normal;
 font-family: "Futura 100";
 font-size: 15px;
 font-style: normal;
-font-weight: 300;
+font-weight: 100;
 line-height: normal;
 }
 .contacttextbox
@@ -773,7 +775,7 @@ margin-left: 40px;
 font-family: "Futura 100";
 font-size: 25px;
 font-style: normal;
-font-weight: 700;
+font-weight: 500;
 line-height: normal;
 
 
@@ -784,7 +786,7 @@ line-height: normal;
 font-family: "Futura 100";
 font-size: 15px;
 font-style: normal;
-font-weight: 300;
+font-weight: 100;
 line-height: normal; 
 }
 
@@ -814,7 +816,7 @@ color: #FFF;
 font-family: "Futura 100";
 font-size: 25px;
 font-style: normal;
-font-weight: 700;
+font-weight: 500;
 line-height: normal;
 float: left;
 }
@@ -824,7 +826,7 @@ float: left;
 font-family: "Futura 100";
 font-size: 15px;
 font-style: normal;
-font-weight: 300;
+font-weight: 100;
 line-height: normal;
 
 }
@@ -845,7 +847,7 @@ height: 97px;
 font-family: "Futura 100";
 font-size: 25px;
 font-style: normal;
-font-weight: 700;
+font-weight: 500;
 line-height: normal;
 
 }
@@ -855,7 +857,7 @@ line-height: normal;
 font-family: "Futura 100";
 font-size: 15px;
 font-style: normal;
-font-weight: 300;
+font-weight: 100;
 line-height: normal; 
 }
 .library{
@@ -873,7 +875,7 @@ flex-shrink: 0;
 font-family: "Futura 100";
 font-size: 25px;
 font-style: normal;
-font-weight: 700;
+font-weight: 500;
 line-height: normal;
 }
 .libraryinfo{
@@ -881,7 +883,7 @@ color: #FFF;
 font-family: "Futura 100";
 font-size: 15px;
 font-style: normal;
-font-weight: 300;
+font-weight: 100;
 line-height: normal; 
 }
 .reachout
@@ -896,7 +898,7 @@ line-height: normal;
 font-family: "Futura 100";
 font-size: 25px;
 font-style: normal;
-font-weight: 700;
+font-weight: 500;
 line-height: normal;
 
 }
