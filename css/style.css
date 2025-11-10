@@ -1033,7 +1033,7 @@ padding-top: 300px;}
 .scrolldownmeetus
 {
 
-margin-top: 320px;
+margin-top: 200px;
 color: #FFF;
 font-family: "Futura 100";
 font-size: 25px;
@@ -1041,4 +1041,250 @@ font-style: normal;
 font-weight: 300;
 line-height: normal;
 
+}
+.chrisitina
+{
+  float: left;
+  margin-left: 107px;
+  margin-top: 105px;
+  width: 610px;
+height: 406px;
+}
+.Elizabeth{
+    color: #EAEAEA;
+float: left;
+font-family: "Futura 100";
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.Lizinfo
+{
+float: left;
+    color: #FFF;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 250;
+line-height: normal;
+}
+.allEli
+{
+    float:left;
+    width: 571px;
+height: 294px;
+margin-left: 54px;
+margin-top: 130px;
+}
+
+
+.ricardo
+{
+    float: left;
+    margin-top: 557px;
+    margin-left: -1238px;
+}
+
+
+
+.rickybold{
+    color: #EAEAEA;
+float: left;
+font-family: "Futura 100";
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.rickytextbox
+{
+float: left;
+width: 591px;
+height: 256px;
+flex-shrink: 0;
+margin-left: 54px;
+margin-top: 180px;
+}
+.rickydetails
+{
+    color: #FFF;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 250;
+line-height: normal;
+float: left;
+
+}
+
+.charlesphoto
+{
+   float: left;
+    margin-top: 584px;
+    margin-left: -1260px; 
+}
+
+.charlestextbox{
+    float: left;
+    width: 591px;
+height: 238px;
+margin-left: 770px;
+margin-top: 220px;
+
+}
+
+.charlesbold
+{
+    color: #EAEAEA;
+float: left;
+font-family: "Futura 100";
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.charlesdetails{
+    color: #FFF;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 250;
+line-height: normal;
+float: left;
+}
+
+.benjaminphoto{
+    float: left;
+    margin-top: 600px;
+    margin-left: -1260px; 
+}
+
+.benjamintextbox
+{
+     float: left;
+     width: 591px;
+height: 322px;
+margin-left: 770px;
+margin-top: 200px;
+
+}
+
+.benjaminbold{
+    color: #EAEAEA;
+float: left;
+font-family: "Futura 100";
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.benjamininfo
+{
+     color: #FFF;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 250;
+line-height: normal;
+float: left;
+}
+
+.principalbox
+{
+    float: left;
+    color: #FFF;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 150;
+line-height: normal;
+float: left;
+margin-top: 50px;
+margin-left: 100px;
+}
+.boldbig
+{
+    color: #FFF;
+
+font-family: "Futura 100";
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.subbold{
+    color: #FFF;
+font-family: "Futura 100";
+font-size: 10px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.associatebox
+{
+    float: left;
+    color: #FFF;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 150;
+line-height: normal;
+float: left;
+margin-top: 50px;
+margin-left: 50px;
+width: 217px;
+height: 185px;
+}
+
+.seniorbox
+{
+    float: left;
+    color: #FFF;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 150;
+line-height: normal;
+float: left;
+margin-top: 50px;
+margin-left: 50px;
+width: 207px;
+height: 261px;
+flex-shrink: 0;
+}
+.associatesbox
+{
+    float: left;
+    color: #FFF;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 150;
+line-height: normal;
+float: left;
+margin-top: 50px;
+margin-left: 50px;
+width: 207px;
+height: 261px;
+flex-shrink: 0;
+}
+.staffbox
+{
+    width: 224px;
+height: 223px;
+ float: left;
+    color: #FFF;
+font-family: "Futura 100";
+font-size: 15px;
+font-style: normal;
+font-weight: 150;
+line-height: normal;
+float: left;
+margin-top: 50px;
+margin-left: 50px;
 }
