@@ -74,6 +74,15 @@ object-fit: cover;
         text-decoration:none;
         margin: 20px;
     }
+
+    .logo
+{
+height: 61px;
+position: absolute;
+top: 0;
+left: 5px;
+}
+
 .backgroundStudio 
  {
 
@@ -91,7 +100,30 @@ object-fit: cover;
 
 .maintext
 {
-    color: #456783;
+    color: #ffffff;
+
+font-family: "Futura 100";
+font-size: 100px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin: 0px;
+text-align: center;
+
+
+
+}
+
+.maindescriptiontext
+{
+    color: #ffffff;
+font-family: "Futura 100";
+font-size: 30px;
+font-style: normal;
+font-weight: 250;
+line-height: normal;
+margin: 0px;
+text-align: center;
 }
  
  .headerpage1 {
