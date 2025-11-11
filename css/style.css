@@ -1375,7 +1375,7 @@ width: 604px;
 height: 615px;
 float: left;
 margin-left: 70px;
-}
+margin-bottom: 0px;}
 .perry2
 {
     float: left;
@@ -1407,4 +1407,88 @@ font-size: 10px;
 font-style: normal;
 font-weight: 600;
 line-height: normal;
+}
+.informationdata{
+    color: #010101;
+font-family: "Futura 100";
+font-size: 10px;
+font-style: normal;
+font-weight: 350;
+line-height: normal;
+}
+.projectleaders
+{
+    float: left;
+    margin-left:200px;
+    margin-top: -165px;
+ }
+ 
+ .partnerscontinued
+ {
+    color: #010101;
+font-family: "Futura 100";
+font-size: 10px;
+font-style: normal;
+font-weight: 350;
+line-height: normal;
+float: left;
+ margin-left:200px;
+    margin-top: -180px;
+ }
+ .threeD
+ {
+    color:#ffffff;
+
+font-family: "Futura 100";
+font-size: 25px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-align: center;
+margin-top: -210px;
+
+ }
+ .fakegallery
+ {
+    float: left;
+    
+
+ }
+ .leftgallerybutton{
+margin-top: 120px;
+    margin-left: 70px;
+    float: left;
+ }
+ .leftgalleryphoto
+ {
+float: left;
+    margin-left: 20px;
+ }
+.auditoriam
+{
+    float: left;
+    margin-left: 20px;
+    margin-top: 8px;
+}
+
+.parkperry{
+    float: left;
+    margin-left: 20px;
+    margin-top: 8px;
+}
+
+.rightgallerybutton
+{
+    float: left;
+    margin-left: 20px;
+  margin-top: 120px;
+}
+
+.fakevideo
+{
+    float: left;
+    margin-left: 110px;
+    margin-top: 20px;
+    width: 1283px;
+height: 855px;
 }
