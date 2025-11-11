@@ -1491,4 +1491,68 @@ float: left;
     margin-top: 20px;
     width: 1283px;
 height: 855px;
+
 }
+.educationphotos
+{
+    width: 340px;
+height: 256px;
+float: left;
+margin: 30px;
+
+
+}
+.educationphoto2
+{
+    margin: 30px;
+    float: left;
+}
+
+.educationphot3{
+    float: left;
+    margin: 30px;
+}
+
+.labeleducation
+{
+    color: #FFF;
+font-family: "Futura 100";
+font-size: 10px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-align: center;
+
+}
+
+.alleducationphotos
+{
+    margin-left: 120px;
+}
+
+.educationphoto4
+{
+     float: left;
+    margin: 30px;
+}
+
+.educationphoto5
+{
+     float: left;
+    margin: 30px;
+
+}
+.educationphot6
+{
+    float: left;
+    margin: 30px;
+}
+
+
+    .backgroundjuliardproject
+    {
+background-image: url(../images/juliardheader.png);
+    width: 1441px;
+height: 961px;
+    }
+
